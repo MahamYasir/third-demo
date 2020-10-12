@@ -3,3 +3,5 @@ hello
 Online changes
 
 Learning fast forward merge
+
+Updated for merge commit
